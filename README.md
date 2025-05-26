@@ -4,7 +4,7 @@ Este é um projeto Java simples para gerenciamento de funerária com ultilizaç�
 
 ## Como executar
 
-*Banco De Dados*
+*Banco De Dados:*
 Para a importação da estrutura do banco de dados, favor checar o arquivo "Banco-Funerario3.p.sql"
 O projeto utiliza uma conexão ao banco de dados via root e senha 123456,caso sua configuração seja diferente peço que por gentileza altere as credenciais no arquivo src/util/ConnectionFactory.java
 ou ajuste temporariamente sua senha do MySQL para essa combinação,caso prefira.Agradecemos sua compreensão.
